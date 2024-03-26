@@ -37,7 +37,7 @@
     "Python.gui.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Yorma/PycharmProjects/Proyecto_inteligentes/.venv/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711483787417</updated>
-      <workItem from="1711483790336" duration="11056000" />
+      <workItem from="1711483790336" duration="11458000" />
     </task>
     <task id="LOCAL-00001" summary="commit proyecto_inteligentes">
       <option name="closed" value="true" />

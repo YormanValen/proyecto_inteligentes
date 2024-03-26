@@ -1,0 +1,495 @@
+{
+  "nodos": [
+    {
+      "id": 1,
+      "esSemaforo": true,
+      "adyacentes": [
+        2
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 1,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 2,
+      "esSemaforo": false,
+      "adyacentes": [
+        1,
+        3
+      ],
+      "esPuntoInteres": true,
+      "coordenadas": {
+        "calle": 2,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 3,
+      "esSemaforo": true,
+      "adyacentes": [
+        2,
+        4,
+        13
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 3,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 4,
+      "esSemaforo": false,
+      "adyacentes": [
+        3,5
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 4,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 5,
+      "esSemaforo": true,
+      "adyacentes": [
+       6,15
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 5,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 6,
+      "esSemaforo": false,
+      "adyacentes": [
+       5,16
+      ],
+      "esPuntoInteres": true,
+      "coordenadas": {
+        "calle": 6,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 7,
+      "esSemaforo": true,
+      "adyacentes": [
+        8,17
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 7,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 8,
+      "esSemaforo": false,
+      "adyacentes": [
+        7
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 8,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 9,
+      "esSemaforo": false,
+      "adyacentes": [
+        8,19
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 9,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 10,
+      "esSemaforo": true,
+      "adyacentes": [
+        9
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 10,
+        "carrera": 1
+      }
+    },
+    {
+      "id": 11,
+      "esSemaforo": false,
+      "adyacentes": [
+        1,12
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 1,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 12,
+      "esSemaforo": false,
+      "adyacentes": [
+        13,22
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 2,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 13,
+      "esSemaforo": true,
+      "adyacentes": [
+        12,14,3
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 3,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 14,
+      "esSemaforo": true,
+      "adyacentes": [
+        24
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 4,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 15,
+      "esSemaforo": false,
+      "adyacentes": [
+        5,16
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 5,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 16,
+      "esSemaforo": false,
+      "adyacentes": [
+       6,17,36
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 6,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 17,
+      "esSemaforo": false,
+      "adyacentes": [
+        7,16,18
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 7,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 18,
+      "esSemaforo": true,
+      "adyacentes": [
+        17,28,19
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 8,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 19,
+      "esSemaforo": false,
+      "adyacentes": [
+        9
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 9,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 20,
+      "esSemaforo": false,
+      "adyacentes": [
+        10,19,30
+      ],
+      "esPuntoInteres": true,
+      "coordenadas": {
+        "calle": 10,
+        "carrera": 2
+      }
+    },
+    {
+      "id": 21,
+      "esSemaforo": true,
+      "adyacentes": [
+        11,22,31
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 1,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 22,
+      "esSemaforo": true,
+      "adyacentes": [
+        12,21,23
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 2,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 23,
+      "esSemaforo": false,
+      "adyacentes": [
+        22,24
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 3,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 24,
+      "esSemaforo": false,
+      "adyacentes": [
+        14,23,25
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 4,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 25,
+      "esSemaforo": false,
+      "adyacentes": [
+        24,35
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 5,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 26,
+      "esSemaforo": false,
+      "adyacentes": [
+       16,27
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 6,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 27,
+      "esSemaforo": true,
+      "adyacentes": [
+        26,28
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 7,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 28,
+      "esSemaforo": false,
+      "adyacentes": [
+        18,29,38
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 8,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 29,
+      "esSemaforo": false,
+      "adyacentes": [
+
+        28
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 9,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 30,
+      "esSemaforo": false ,
+      "adyacentes": [
+       40
+      ],
+      "esPuntoInteres": true,
+      "coordenadas": {
+        "calle": 10,
+        "carrera": 3
+      }
+    },
+    {
+      "id": 31,
+      "esSemaforo": false,
+      "adyacentes": [
+        32
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 1,
+        "carrera": 4
+      }
+    },
+    {
+      "id": 32,
+      "esSemaforo": false,
+      "adyacentes": [
+        22,31,33
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 2,
+        "carrera": 4
+      }
+    },
+    {
+      "id": 33,
+      "esSemaforo": false,
+      "adyacentes": [
+        34,
+        32
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 3,
+        "carrera": 4
+      }
+    },
+    {
+      "id": 34,
+      "esSemaforo": false,
+      "adyacentes": [
+        33
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 4,
+        "carrera": 4
+      }
+    },
+    {
+      "id": 35,
+      "esSemaforo": false,
+      "adyacentes": [
+        36,
+        25
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 5,
+        "carrera": 4
+      }
+    },
+    {
+      "id": 36,
+
+      "esSemaforo": false,
+      "adyacentes": [
+        35
+      ],
+      "esPuntoInteres": true,
+      "coordenadas": {
+        "calle": 6,
+        "carrera": 4
+      }
+    },
+    {
+      "id": 37,
+      "esSemaforo": false,
+      "adyacentes": [
+       36
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 7,
+        "carrera": 4
+      }
+    },
+
+
+    {
+      "id": 38,
+      "esSemaforo": false,
+      "adyacentes": [
+
+        28
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 8,
+        "carrera": 4
+      }
+    },
+    {
+      "id": 39,
+      "esSemaforo": false,
+      "adyacentes": [
+
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 9,
+        "carrera": 4
+      }
+    },
+    {
+      "id": 40,
+      "esSemaforo": true,
+      "adyacentes": [
+        39
+      ],
+      "esPuntoInteres": false,
+      "coordenadas": {
+        "calle": 10,
+        "carrera": 4
+      }
+    }
+  ]
+}
+
