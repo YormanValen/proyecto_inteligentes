@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60714055-0888-4467-b75f-53d482a25309" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Proyecto_inteligentes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="60714055-0888-4467-b75f-53d482a25309" name="Changes" comment="commit proyecto_inteligentes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,12 +70,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711483787417</updated>
-      <workItem from="1711483790336" duration="10712000" />
+      <workItem from="1711483790336" duration="11056000" />
     </task>
+    <task id="LOCAL-00001" summary="commit proyecto_inteligentes">
+      <option name="closed" value="true" />
+      <created>1711494756492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711494756492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit proyecto_inteligentes">
+      <option name="closed" value="true" />
+      <created>1711494783002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711494783002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit proyecto_inteligentes" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit proyecto_inteligentes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Proyecto_inteligentes$gui.coverage" NAME="gui Coverage Results" MODIFIED="1711493976522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
