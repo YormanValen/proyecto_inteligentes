@@ -14,7 +14,7 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 
 # Asumiendo que tienes una imagen llamada 'taxi.png' en el mismo directorio que tu script
 taxi_image_path = 'taxi.png'
-taxi_image = pygame.image.load('.venv/images/taxi.png')
+taxi_image = pygame.image.load('images/taxi.png')
 
 # Si necesitas cambiar el tamaño de la imagen
 taxi_image = pygame.transform.scale(taxi_image, (50, 40))

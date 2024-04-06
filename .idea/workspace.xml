@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60714055-0888-4467-b75f-53d482a25309" name="Changes" comment="commit proyecto_inteligentes" />
+    <list default="true" id="60714055-0888-4467-b75f-53d482a25309" name="Changes" comment="commit proyecto_inteligentes">
+      <change afterPath="$PROJECT_DIR$/Aestrella.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grafo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaAbiertos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaCerrados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nodo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tupla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/taxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prueba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,22 +35,27 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/gui.py" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2eExxaT0qYQFIA1u2CzYG3pnNQ2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Aestrella.executor": "Run",
+    "Python.Nodo.executor": "Run",
     "Python.gui.executor": "Run",
+    "Python.prueba.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Yorma/PycharmProjects/Proyecto_inteligentes/.venv/images",
+    "last_opened_file_path": "C:/Users/Brayan/Desktop/Nueva carpeta/proyecto_inteligentes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,13 +69,14 @@
       <recent name="C:\Users\Yorma\PycharmProjects\Proyecto_inteligentes\.venv\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brayan\Desktop\Nueva carpeta\proyecto_inteligentes\images" />
       <recent name="C:\Users\Yorma\PycharmProjects\Proyecto_inteligentes\.venv\" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
